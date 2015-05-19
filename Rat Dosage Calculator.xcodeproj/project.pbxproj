@@ -1,0 +1,377 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C19A3821A967C1500A29D47 /* AmoxiTabBarIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C19A3811A967C1500A29D47 /* AmoxiTabBarIcon.png */; };
+		8C5531411A8D467600E04882 /* Doxycycline100mgViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C5531401A8D467600E04882 /* Doxycycline100mgViewController.m */; };
+		8C5531441A8EAC0700E04882 /* ModalDisclaimerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C5531431A8EAC0700E04882 /* ModalDisclaimerViewController.m */; };
+		8C55317C1A92B1E400E04882 /* AmoxiCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C55317B1A92B1E400E04882 /* AmoxiCalculator.m */; };
+		8C55317F1A92B2B200E04882 /* AmoxiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C55317E1A92B2B200E04882 /* AmoxiViewController.m */; };
+		8C5531831A92BA5100E04882 /* ModifiedTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C5531821A92BA5100E04882 /* ModifiedTextView.m */; };
+		8C7C71C41A79720E000F0AC3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C71C31A79720E000F0AC3 /* main.m */; };
+		8C7C71C71A79720E000F0AC3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C71C61A79720E000F0AC3 /* AppDelegate.m */; };
+		8C7C71CA1A79720E000F0AC3 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C71C91A79720E000F0AC3 /* MasterViewController.m */; };
+		8C7C71D01A79720E000F0AC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C7C71CE1A79720E000F0AC3 /* Main.storyboard */; };
+		8C7C71D21A79720E000F0AC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C7C71D11A79720E000F0AC3 /* Images.xcassets */; };
+		8C7C71D51A79720E000F0AC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C7C71D31A79720E000F0AC3 /* LaunchScreen.xib */; };
+		8C7C71EC1A797234000F0AC3 /* Baytril10LiquidViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C71EB1A797234000F0AC3 /* Baytril10LiquidViewController.m */; };
+		8C7C71EF1A797285000F0AC3 /* Baytril10LiquidCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C71EE1A797285000F0AC3 /* Baytril10LiquidCalculator.m */; };
+		8C7C71F21A797815000F0AC3 /* Doxy100mgCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C71F11A797815000F0AC3 /* Doxy100mgCalculator.m */; };
+		8C7C720C1A79E9F2000F0AC3 /* UIView+Borders.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7C720B1A79E9F2000F0AC3 /* UIView+Borders.m */; };
+		8C8344C31A97E11B00B78ADC /* BaytrilTabBarIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C8344C21A97E11B00B78ADC /* BaytrilTabBarIcon.png */; };
+		8C8344CB1A97EA1200B78ADC /* DoxyTabBarIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C8344CA1A97EA1200B78ADC /* DoxyTabBarIcon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8C19A3811A967C1500A29D47 /* AmoxiTabBarIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AmoxiTabBarIcon.png; sourceTree = "<group>"; };
+		8C55313F1A8D467600E04882 /* Doxycycline100mgViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Doxycycline100mgViewController.h; sourceTree = "<group>"; };
+		8C5531401A8D467600E04882 /* Doxycycline100mgViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Doxycycline100mgViewController.m; sourceTree = "<group>"; };
+		8C5531421A8EAC0600E04882 /* ModalDisclaimerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalDisclaimerViewController.h; sourceTree = "<group>"; };
+		8C5531431A8EAC0700E04882 /* ModalDisclaimerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalDisclaimerViewController.m; sourceTree = "<group>"; };
+		8C55317A1A92B1E400E04882 /* AmoxiCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AmoxiCalculator.h; sourceTree = "<group>"; };
+		8C55317B1A92B1E400E04882 /* AmoxiCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AmoxiCalculator.m; sourceTree = "<group>"; };
+		8C55317D1A92B2B200E04882 /* AmoxiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AmoxiViewController.h; sourceTree = "<group>"; };
+		8C55317E1A92B2B200E04882 /* AmoxiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AmoxiViewController.m; sourceTree = "<group>"; };
+		8C5531811A92BA5100E04882 /* ModifiedTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModifiedTextView.h; sourceTree = "<group>"; };
+		8C5531821A92BA5100E04882 /* ModifiedTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModifiedTextView.m; sourceTree = "<group>"; };
+		8C7C71BE1A79720E000F0AC3 /* Rat Medic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rat Medic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C7C71C21A79720E000F0AC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C7C71C31A79720E000F0AC3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8C7C71C51A79720E000F0AC3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8C7C71C61A79720E000F0AC3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8C7C71C81A79720E000F0AC3 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
+		8C7C71C91A79720E000F0AC3 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		8C7C71CF1A79720E000F0AC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8C7C71D11A79720E000F0AC3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		8C7C71D41A79720E000F0AC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		8C7C71EA1A797234000F0AC3 /* Baytril10LiquidViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Baytril10LiquidViewController.h; sourceTree = "<group>"; };
+		8C7C71EB1A797234000F0AC3 /* Baytril10LiquidViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Baytril10LiquidViewController.m; sourceTree = "<group>"; };
+		8C7C71ED1A797285000F0AC3 /* Baytril10LiquidCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Baytril10LiquidCalculator.h; sourceTree = "<group>"; };
+		8C7C71EE1A797285000F0AC3 /* Baytril10LiquidCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Baytril10LiquidCalculator.m; sourceTree = "<group>"; };
+		8C7C71F01A797815000F0AC3 /* Doxy100mgCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Doxy100mgCalculator.h; sourceTree = "<group>"; };
+		8C7C71F11A797815000F0AC3 /* Doxy100mgCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Doxy100mgCalculator.m; sourceTree = "<group>"; };
+		8C7C720A1A79E9F2000F0AC3 /* UIView+Borders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Borders.h"; sourceTree = "<group>"; };
+		8C7C720B1A79E9F2000F0AC3 /* UIView+Borders.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Borders.m"; sourceTree = "<group>"; };
+		8C8344C21A97E11B00B78ADC /* BaytrilTabBarIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BaytrilTabBarIcon.png; sourceTree = "<group>"; };
+		8C8344CA1A97EA1200B78ADC /* DoxyTabBarIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DoxyTabBarIcon.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C7C71BB1A79720E000F0AC3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C7C71B51A79720D000F0AC3 = {
+			isa = PBXGroup;
+			children = (
+				8C7C71C01A79720E000F0AC3 /* Rat Dosage Calculator */,
+				8C7C71BF1A79720E000F0AC3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C7C71BF1A79720E000F0AC3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C7C71BE1A79720E000F0AC3 /* Rat Medic.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C7C71C01A79720E000F0AC3 /* Rat Dosage Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				8C7C71C51A79720E000F0AC3 /* AppDelegate.h */,
+				8C7C71C61A79720E000F0AC3 /* AppDelegate.m */,
+				8C5531421A8EAC0600E04882 /* ModalDisclaimerViewController.h */,
+				8C5531431A8EAC0700E04882 /* ModalDisclaimerViewController.m */,
+				8C7C71EA1A797234000F0AC3 /* Baytril10LiquidViewController.h */,
+				8C7C71EB1A797234000F0AC3 /* Baytril10LiquidViewController.m */,
+				8C55313F1A8D467600E04882 /* Doxycycline100mgViewController.h */,
+				8C5531401A8D467600E04882 /* Doxycycline100mgViewController.m */,
+				8C55317D1A92B2B200E04882 /* AmoxiViewController.h */,
+				8C55317E1A92B2B200E04882 /* AmoxiViewController.m */,
+				8C7C71ED1A797285000F0AC3 /* Baytril10LiquidCalculator.h */,
+				8C7C71EE1A797285000F0AC3 /* Baytril10LiquidCalculator.m */,
+				8C7C71F01A797815000F0AC3 /* Doxy100mgCalculator.h */,
+				8C7C71F11A797815000F0AC3 /* Doxy100mgCalculator.m */,
+				8C55317A1A92B1E400E04882 /* AmoxiCalculator.h */,
+				8C55317B1A92B1E400E04882 /* AmoxiCalculator.m */,
+				8C8344CA1A97EA1200B78ADC /* DoxyTabBarIcon.png */,
+				8C8344C21A97E11B00B78ADC /* BaytrilTabBarIcon.png */,
+				8C19A3811A967C1500A29D47 /* AmoxiTabBarIcon.png */,
+				8C5531811A92BA5100E04882 /* ModifiedTextView.h */,
+				8C5531821A92BA5100E04882 /* ModifiedTextView.m */,
+				8C7C720A1A79E9F2000F0AC3 /* UIView+Borders.h */,
+				8C7C720B1A79E9F2000F0AC3 /* UIView+Borders.m */,
+				8C7C71C81A79720E000F0AC3 /* MasterViewController.h */,
+				8C7C71C91A79720E000F0AC3 /* MasterViewController.m */,
+				8C7C71CE1A79720E000F0AC3 /* Main.storyboard */,
+				8C7C71D11A79720E000F0AC3 /* Images.xcassets */,
+				8C7C71D31A79720E000F0AC3 /* LaunchScreen.xib */,
+				8C7C71C11A79720E000F0AC3 /* Supporting Files */,
+			);
+			path = "Rat Dosage Calculator";
+			sourceTree = "<group>";
+		};
+		8C7C71C11A79720E000F0AC3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8C7C71C21A79720E000F0AC3 /* Info.plist */,
+				8C7C71C31A79720E000F0AC3 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8C7C71BD1A79720E000F0AC3 /* Rat Medic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C7C71E41A79720E000F0AC3 /* Build configuration list for PBXNativeTarget "Rat Medic" */;
+			buildPhases = (
+				8C7C71BA1A79720E000F0AC3 /* Sources */,
+				8C7C71BB1A79720E000F0AC3 /* Frameworks */,
+				8C7C71BC1A79720E000F0AC3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Rat Medic";
+			productName = "Rat Dosage Calculator";
+			productReference = 8C7C71BE1A79720E000F0AC3 /* Rat Medic.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C7C71B61A79720D000F0AC3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Liana Chu";
+				TargetAttributes = {
+					8C7C71BD1A79720E000F0AC3 = {
+						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = WH2R553NPB;
+					};
+				};
+			};
+			buildConfigurationList = 8C7C71B91A79720D000F0AC3 /* Build configuration list for PBXProject "Rat Dosage Calculator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8C7C71B51A79720D000F0AC3;
+			productRefGroup = 8C7C71BF1A79720E000F0AC3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C7C71BD1A79720E000F0AC3 /* Rat Medic */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8C7C71BC1A79720E000F0AC3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C7C71D01A79720E000F0AC3 /* Main.storyboard in Resources */,
+				8C19A3821A967C1500A29D47 /* AmoxiTabBarIcon.png in Resources */,
+				8C8344CB1A97EA1200B78ADC /* DoxyTabBarIcon.png in Resources */,
+				8C7C71D51A79720E000F0AC3 /* LaunchScreen.xib in Resources */,
+				8C8344C31A97E11B00B78ADC /* BaytrilTabBarIcon.png in Resources */,
+				8C7C71D21A79720E000F0AC3 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C7C71BA1A79720E000F0AC3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C7C71F21A797815000F0AC3 /* Doxy100mgCalculator.m in Sources */,
+				8C7C71EC1A797234000F0AC3 /* Baytril10LiquidViewController.m in Sources */,
+				8C7C71C71A79720E000F0AC3 /* AppDelegate.m in Sources */,
+				8C5531441A8EAC0700E04882 /* ModalDisclaimerViewController.m in Sources */,
+				8C55317C1A92B1E400E04882 /* AmoxiCalculator.m in Sources */,
+				8C7C71EF1A797285000F0AC3 /* Baytril10LiquidCalculator.m in Sources */,
+				8C7C720C1A79E9F2000F0AC3 /* UIView+Borders.m in Sources */,
+				8C5531831A92BA5100E04882 /* ModifiedTextView.m in Sources */,
+				8C7C71CA1A79720E000F0AC3 /* MasterViewController.m in Sources */,
+				8C7C71C41A79720E000F0AC3 /* main.m in Sources */,
+				8C5531411A8D467600E04882 /* Doxycycline100mgViewController.m in Sources */,
+				8C55317F1A92B2B200E04882 /* AmoxiViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8C7C71CE1A79720E000F0AC3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8C7C71CF1A79720E000F0AC3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8C7C71D31A79720E000F0AC3 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8C7C71D41A79720E000F0AC3 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8C7C71E21A79720E000F0AC3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Liana Chu (CBKZPDABSJ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Liana Chu (CBKZPDABSJ)";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "83412bbd-e5af-4c75-8bab-91d16d134a81";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8C7C71E31A79720E000F0AC3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Liana Chu (WH2R553NPB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Liana Chu (WH2R553NPB)";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "83412bbd-e5af-4c75-8bab-91d16d134a81";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C7C71E51A79720E000F0AC3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "Rat Dosage Calculator/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8C7C71E61A79720E000F0AC3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "Rat Dosage Calculator/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C7C71B91A79720D000F0AC3 /* Build configuration list for PBXProject "Rat Dosage Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C7C71E21A79720E000F0AC3 /* Debug */,
+				8C7C71E31A79720E000F0AC3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C7C71E41A79720E000F0AC3 /* Build configuration list for PBXNativeTarget "Rat Medic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C7C71E51A79720E000F0AC3 /* Debug */,
+				8C7C71E61A79720E000F0AC3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C7C71B61A79720D000F0AC3 /* Project object */;
+}
